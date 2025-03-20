@@ -1,6 +1,6 @@
 Welcome to the project! Here's a demo of how it works:
 
-[Watch the demo video on YouTube](https://drive.google.com/file/d/10_aePdCMXNPDPEFJqyO81REQcx3XsYsh/view?usp=sharing)
+[Watch the demo video on Google Drive](https://drive.google.com/file/d/10_aePdCMXNPDPEFJqyO81REQcx3XsYsh/view?usp=sharing)
 
 AI Research Assistant - Automated Research Pipeline
 📌 Project Overview
