@@ -1,0 +1,1 @@
+openai langchain networkx sentence-transformers beautifulsoup4 requests
