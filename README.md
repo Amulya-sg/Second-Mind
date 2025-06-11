@@ -1,7 +1,3 @@
-Welcome to the project! Here's a demo of how it works:
-
-[Watch the demo video on Google Drive](https://drive.google.com/file/d/10_aePdCMXNPDPEFJqyO81REQcx3XsYsh/view?usp=sharing)
-
 AI Research Assistant - Automated Research Pipeline
 📌 Project Overview
 This AI-powered research assistant automates the process of idea generation, validation, ranking, and refinement. It leverages RAG (Retrieval-Augmented Generation) with LLMs to systematically evaluate and enhance research ideas based on structured criteria.
